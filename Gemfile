@@ -39,5 +39,5 @@ gem 'bootsnap', '>= 1.1.0', require: false
 group :test do
   gem 'capybara', '>= 2.15'
   gem 'selenium-webdriver'
-  gem 'chromedriver-helper'
+  #gem 'chromedriver-helper'
 end
