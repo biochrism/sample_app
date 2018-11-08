@@ -1,0 +1,41 @@
+[33mcommit 3aa42871d7aca22da2823120ddb447a555f07c3e[m[33m ([m[1;36mHEAD -> [m[1;32mrails-flavored-ruby[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Bio Chris <biochrism@yahoo.com>
+Date:   Tue Oct 23 11:09:05 2018 -0400
+
+    Complete advanced setup
+
+[33mcommit 9856e436435ba6174f31b1be058679f3ead868d4[m[33m ([m[1;31mheroku/master[m[33m, [m[1;32mstatic-pages[m[33m)[m
+Author: Bio Chris <biochrism@yahoo.com>
+Date:   Tue Oct 23 10:26:54 2018 -0400
+
+    Finish static pages
+
+[33mcommit f52197da5e4e478c0819ed97b1c4b253a615bda3[m[33m ([m[1;31morigin/static-pages[m[33m, [m[1;31mheroku/static-pages[m[33m)[m
+Author: Bio Chris <biochrism@yahoo.com>
+Date:   Tue Oct 23 10:10:21 2018 -0400
+
+    almost done with static pages
+
+[33mcommit cd0ff344f60a77a98d9eb1f34c72a1c9477fc9d0[m
+Author: Bio Chris <biochrism@yahoo.com>
+Date:   Fri Oct 19 12:35:51 2018 -0400
+
+    Add a static pages controller
+
+[33mcommit 8f54e4070442bf714adf1ec357d5c4a2fa1e2a4a[m
+Author: Bio Chris <biochrism@yahoo.com>
+Date:   Tue Oct 16 12:54:33 2018 -0400
+
+    Add Welcome page
+
+[33mcommit 0292b2625fbbc85d4074f6499793ca055f5dd07d[m[33m ([m[1;31mgithub/master[m[33m)[m
+Author: Bio Chris <biochrism@yahoo.com>
+Date:   Tue Oct 16 12:40:39 2018 -0400
+
+    Update the README
+
+[33mcommit d23772355d79865a762568c392c7a3f15beac655[m
+Author: Bio Chris <biochrism@yahoo.com>
+Date:   Tue Oct 16 12:33:59 2018 -0400
+
+    Initial D
